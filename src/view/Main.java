@@ -11,8 +11,6 @@ public class Main {
 			KillController kill = new KillController();
 			Scanner scan = new Scanner(System.in);
 			
-			kill.listProcesses();
-			
 			int option = 0;
 			
 			String menu = """
