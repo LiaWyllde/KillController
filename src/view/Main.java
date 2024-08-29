@@ -22,7 +22,7 @@ public class Main {
 							1 - Show processes
 							2 - Kill process by PID
 							3 - Kill process by name
-							9 - Sair
+							9 - Exit
 							
 					""";
 			
